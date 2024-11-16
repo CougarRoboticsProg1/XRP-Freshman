@@ -16,4 +16,8 @@ public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
   }
+  
+  public static class AutonomousConstants {
+    public static final double in_cm = 2.54;
+  }
 }
